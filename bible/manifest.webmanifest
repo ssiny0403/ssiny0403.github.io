@@ -1,0 +1,17 @@
+{
+  "name": "신약 1독 체크",
+  "short_name": "신약 1독",
+  "description": "2026년 12월 29일까지 신약 개역개정 1독 체크",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FAF8F1",
+  "theme_color": "#6B7B3A",
+  "lang": "ko",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
